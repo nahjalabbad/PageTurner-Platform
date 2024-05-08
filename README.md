@@ -41,27 +41,40 @@ Inspired by Abdulrahman's event, Ahmed decides to host his own meeting to engage
 [Postman API Documentation](https://documenter.getpostman.com/view/34658199/2sA3JJA43y)
 
 ## My Endpoints :
-| EndPoint Name | Done By | Reviewd By |
-| --------------- | --------------- | --------------- |
-| Book Model &CRUD   | Nahj    | Nahj    |
-| Writer Model &CRUD    | Nahj   | Nahj    |
-| Genre Model &CRUD    | Nahj    | Nahj   |
-| Goals Model &CRUD    | Nahj    | Nahj   |
-| Get Top Books by genre    | Nahj    | Nahj    |
-| Get Top Books by author    | Nahj   | Nahj    |
-| Get Top Books by language    | Nahj    | Nahj   |
-| Get all time top Books     | Nahj    | Nahj   |
-| Get my published books   | Nahj    | Nahj    |
-| Get all Books by author name    | Nahj   | Nahj    |
-| Get all posts by Book name    | Nahj    | Nahj   |
-| Start Event    | Nahj    | Nahj   |
-| End Event   | Nahj    | Nahj    |
-| Get all previous events for host reader    | Nahj   | Nahj    |
-| Get all upcoming events    | Nahj    | Nahj   |
-| Get the current event    | Nahj    | Abdulrahman   |
-| Get all reader events   | Nahj    | Nahj    |
-| Get all current events    | Nahj   | Abdulrahman   |
-| Search Event by event title    | Nahj    | Nahj   |
-| Search Event by book name   | Nahj    | Nahj   |
-| JUnit Testing Repository Tests   | Nahj    | Nahj    |
-| System Security    | Nahj   | Reenad ,Abdulrahman   |
+| EndPoint Name | Name |
+| --------------- | --------------- |
+| Book Model &CRUD   | Nahj    |
+| Writer Model &CRUD    | Nahj   |
+| Genre Model &CRUD    | Nahj    |
+| Goals Model &CRUD    | Nahj    |
+| Get Top Books by genre    | Nahj    |
+| Get Top Books by author    | Nahj   |
+| Get Top Books by language    | Nahj    |
+| Get all time top Books     | Nahj    |
+| Get my published books   | Nahj    |
+| Get all Books by author name    | Nahj   |
+| Get all posts by Book name    | Nahj    |
+| Start Event    | Nahj    |
+| End Event   | Nahj    |
+| Get all previous events for host reader    | Nahj   |
+| Get all upcoming events    | Nahj    |
+| Get the current event    | Nahj    |
+| Get all reader events   | Nahj    |
+| Get all current events    | Nahj   |
+| Search Event by event title    | Nahj    |
+| Search Event by book name   | Nahj    |
+| Repositories Queries   | Nahj    |
+| JUnit Testing Repository Tests   | Nahj    |
+| System Security    | Nahj, Reenad , Abdulrahman   |
+| Follow for reader and writer    | Nahj (review)  |
+| Unfollow for reader and writer   | Nahj (review)  |
+| add book to purchase list    | Nahj (review)    |
+| Get previous meeting for writer   | Nahj (review)    |
+| Get previous meeting for reader   | Nahj (review)   |
+| Join Meeting   | Nahj (review)    |
+| Leave Meeting   | Nahj (review)    |
+| Join event   | Nahj (review)    |
+| Leave event   | Nahj (review)    |
+| Get event code   | Nahj (review)    |
+| Get meeting code    | Nahj (review)    |
+| Done reading book    | Nahj (review)   |
